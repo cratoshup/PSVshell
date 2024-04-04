@@ -8,7 +8,7 @@ Yet another overclocking plugin
   - **BUS:** 55, 83, 111, 166, 222 MHz
   - **XBAR:** 83, 111, 166 MHz
 - Supports per-app profiles
-- Shows per-core CPU usage in %, including peak single-thread load
+- Shows per-core CPU usage in %, including peak single-thread load ok
 - Runs in kernelland (=> visible in LiveArea)
 - Pretty GUI with some useless eye-candy metrics such as ram/vram usage, battery temp, etc...
 - Does not slow down games when menu is open
